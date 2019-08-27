@@ -1,4 +1,4 @@
-# Android-Chess-Api
+# Android Chess Api
 
 API create from python + RESTful API
 
