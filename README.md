@@ -13,5 +13,5 @@ Based on [this tutorial](https://medium.com/@parthibansudhaman/how-i-have-create
 ## How to use
 1. Clone project
 2. Add heroku host to file
-3. Go to /py/chess [this](https://github.com/ken2057/Android-Chess-Api/blob/93e54de17b24b14f43f734652995cc081e74f6b8/py/chess.py#L7) to add mongoDB link (user/password)
+3. Go to [/py/chess.py](https://github.com/ken2057/Android-Chess-Api/blob/93e54de17b24b14f43f734652995cc081e74f6b8/py/chess.py#L7) to add mongoDB link (user/password)
 4. Push to host and use
